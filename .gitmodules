@@ -1,3 +1,3 @@
 [submodule "sub"]
 	path = sub
-	url = ./sub/
+	url = git@github.com:pocketgems/git-workshop-repo.git
