@@ -2,6 +2,9 @@
 
 int main(int argc, char **argv)
 {
-    puts("Hello, world!");
+    char *hello = "Hello";
+    char *world = "world";
+    printf("%s, %s!\n", hello, world);
+
     return 0;
 }
